@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">ShoppingCart</string>
+
+    <string name="tx_allselect">全选</string>
+    <string name="tx_total">合计</string>
+    <string name="tx_no_carriage">不含运费</string>
+    <string name="tx_clearing">结算</string>
+    <string name="tx_favorite">移入收藏夹</string>
+    <string name="tx_delete">删除</string>
+    <string name="tx_huibi">G币</string>
+    <string name="tx_edit">编辑</string>
+    <string name="tx_invoice_info">发票信息</string>
+    <string name="tx_goods_total">商品总额（含运费）</string>
+    <string name="tx_favorable">优惠</string>
+    <string name="tx_return">返现</string>
+    <string name="tx_sevenday">确认收货后七天生效</string>
+    <string name="tx_no_invoice">不开发票</string>
+    <string name="tx_zong">总额</string>
+    <string name="btn_submit_order">提交订单</string>
 </resources>

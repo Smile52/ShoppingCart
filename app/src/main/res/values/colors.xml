@@ -1,6 +1,51 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorPrimaryDark">#000000</color>
     <color name="colorAccent">#FF4081</color>
+
+
+    <!-- 主背景颜色 -->
+    <color name="main_bgColor">#ffffff</color>
+    <!-- 次背景颜色 -->
+    <color name="bgColor_ee">#eeeeee</color>
+    <!-- 主文本颜色 -->
+    <color name="main_textColor">#333333</color>
+    <!-- 主标题栏颜色 -->
+    <color name="title_bg_color">#e72f37</color>
+    <!-- 主红色 -->
+    <color name="red_color">#e72f37</color>
+    <color name="red_color_pressed">#d21f27</color>
+    <!-- 分割线颜色 -->
+    <color name="split_line">#dcdcdc</color>
+
+    <!-- 产品价格 -->
+    <color name="red_color_price">#e72f37</color>
+
+    <!-- 颜色 -->
+    <color name="grey_000">#000000</color>
+    <color name="grey_333">#333333</color>
+    <color name="grey_666">#666666</color>
+    <color name="grey_999">#999999</color>
+    <color name="light_gray">#EEEEEE</color>
+    <color name="white">#ffffff</color>
+    <!-- 蓝 -->
+    <color name="blue">#147dfa</color>
+    <!-- 浅蓝 -->
+    <color name="blue_light">#6699ff</color>
+    <!-- 绿 -->
+    <color name="green">#00ff00</color>
+    <!-- 浅绿 -->
+    <color name="green_light">#53cc9c</color>
+    <!-- 黄 -->
+    <color name="yellow">#ff9402</color>
+    <color name="yellow_pressed">#de8102</color>
+    <!-- 不可用状态颜色 -->
+    <color name="disabled_color">#c2c2c2</color>
+    <color name="black">#d4000000</color>
+
+    <color name="list_line_bg1">#f2f2f2</color>
+
+    <!-- 购买人数颜色 -->
+    <color name="peoples">#FD8342</color>
 </resources>
